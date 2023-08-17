@@ -1,4 +1,4 @@
-<style>
+<style.css>
   @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
 
 :root {
@@ -208,7 +208,7 @@ body {
   }
 }
 
-</style>
+</style.css>
 
 <div class="content">
   <h1 class="title">Iamprathameshmore
