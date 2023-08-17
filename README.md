@@ -1,5 +1,6 @@
 
- <link rel="stylesheet" href="styles.css">
+<head>
+ <link rel="stylesheet" href="styles.css"></head>
 <div class="content">
   <h1 class="title">Iamprathameshmore
     <div class="aurora">
