@@ -78,7 +78,7 @@
       </div>
     </div>
   </foreignObject>
-</svgg>
+</svg>
 
 <h1 align="left">Hello, ✌️ Iamprathameshmore</h1>
 
