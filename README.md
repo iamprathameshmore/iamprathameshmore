@@ -1,14 +1,9 @@
-<div class="content">
-  <h1 class="title">Iamprathameshmore
-    <div class="aurora">
-      <div class="aurora__item"></div>
-      <div class="aurora__item"></div>
-      <div class="aurora__item"></div>
-      <div class="aurora__item"></div>
-    </div>
-  </h1>
-  <p class="subtitle">Made with love and only the CSS.</p>
-</div>
+<p class="codepen" data-height="300" data-theme-id="light" data-default-tab="css,result" data-slug-hash="vYzPVZL" data-user="ostylowany" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ostylowany/pen/vYzPVZL">
+  🌌 The aurora (only CSS)</a> by Ostylowany (<a href="https://codepen.io/ostylowany">@ostylowany</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 
 <h1 align="left">Hello, ✌️ Iamprathameshmore</h1>
