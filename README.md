@@ -1,3 +1,16 @@
+<div class="content">
+  <h1 class="title">Iamprathameshmore
+    <div class="aurora">
+      <div class="aurora__item"></div>
+      <div class="aurora__item"></div>
+      <div class="aurora__item"></div>
+      <div class="aurora__item"></div>
+    </div>
+  </h1>
+  <p class="subtitle">Made with love and only the CSS.</p>
+</div>
+
+
 <h1 align="left">Hello, ✌️ Iamprathameshmore</h1>
 
 ###
