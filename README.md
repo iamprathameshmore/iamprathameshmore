@@ -131,7 +131,7 @@ I'm a passionate and curious developer who loves diving into the world of techno
 </div>
 
 ###
-Get in Touch
+<h1 align="left">Get in Touch</h1>
 If you're interested in collaboration, have questions about my work, or just want to connect, feel free to drop me an email at your.email@example.com. You can also find me on LinkedIn if you'd like to connect professionally.
 
 Looking forward to exciting tech adventures together! 🚀
