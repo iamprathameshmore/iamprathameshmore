@@ -1,4 +1,5 @@
-###Hey there! 👋 Welcome to my personal gitub page. 
+<h1 align="left">Hey there! 👋 Welcome to my personal gitub page. </h1>
+<!-- ###Hey there! 👋 Welcome to my personal gitub page.  -->
 This document is designed to give you a glimpse into who I am, my skills, and my tech preferences. Feel free to reach out if you have any questions or if there's anything else you'd like to know about me!
 
 <h2 align="left">About me</h2>
