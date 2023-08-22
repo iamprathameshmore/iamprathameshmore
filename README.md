@@ -113,7 +113,7 @@ I'm a passionate and curious developer who loves diving into the world of techno
 
 ###
 
-<img src="https://raw.githubusercontent.com/iamprathameshmore/iamprathameshmore/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
