@@ -1,6 +1,7 @@
-Hey there! 👋 Welcome to my personal README file. This document is designed to give you a glimpse into who I am, my skills, and my tech preferences. Feel free to reach out if you have any questions or if there's anything else you'd like to know about me!
+###Hey there! 👋 Welcome to my personal gitub page. 
+This document is designed to give you a glimpse into who I am, my skills, and my tech preferences. Feel free to reach out if you have any questions or if there's anything else you'd like to know about me!
 
-About Me
+###About Me
 I'm a passionate and curious developer who loves diving into the world of technology. With a solid foundation in computer science and a knack for problem-solving, I'm always eager to explore new languages, frameworks, and tools. When I'm not coding, you can find me exploring the outdoors, reading sci-fi novels, or experimenting with new recipes in the kitchen.
 
 <h2 align="left">Skills and Technology</h2>
