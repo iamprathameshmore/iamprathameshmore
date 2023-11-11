@@ -7,11 +7,11 @@ I'm a passionate and curious developer who loves diving into the world of techno
 
 <h2 align="left">Skills and Technology</h2>
 
-###
+
 
 <h5 align="left">Skilled freelance graphic designer with over a decade of experience in the field. Dedicated to staying up-to-date on new techniques and procedures related to graphic design. Excel at web platform development, desktop publishing, computer aided design, and video creation and editing software programs. Managed multiple projects simultaneously. Excellent communicator able to work as part of a team or as the sole designer.</h5>
 
-###
+
 
 <h5 align="left">1. Programming Langueges</h5>
 
