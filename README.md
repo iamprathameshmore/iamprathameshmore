@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**iamprathameshmore/iamprathameshmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prathamesh More
 
-Here are some ideas to get you started:
+I'm an engineer who loves to learn and build things that others find useful
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Creator of the Band Glitches-where a few of us are building and maintaining useful libraries and tools for the Bugs and Glitches Devloper Comunity.
+
+Notable projects I've created and or actively maintain:
+
+23bg Zerodoller Topus
+
+Astroeye
+
+Connect
+
+Resume
+
+Get in Touch
+
+If you're intarested in collaboration, have questions about my work, or just want to connect, feel free to drop me an email at jarriprothameshmole07@gmail.com You can san find me on Linkedin if amprathameshmore like to connect professionsilv
+
+Looking forward to exciting lach adventuren together
+
+Social Media Link's
+
+kedin logo discard logo
