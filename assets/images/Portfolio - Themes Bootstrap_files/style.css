@@ -1,0 +1,267 @@
+/*////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    Themes Bootstrap - Creative Agency Template v1.0.0 (https://themesbootstrap.com.mx/templates/creative-agency-template.html)
+    Copyright 2019 Themes Bootstrap
+    Licensed under MIT (https://github.com/diegovr7/themes-Bootstrap/blob/master/LICENSE)
+
+////////////////////////////////////////////////////////////////////////////////////////////////////*/
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #000000;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300 !important;
+}
+
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+    opacity: .8;
+    text-decoration: none;
+}
+
+.primary-btn {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    color: #000000;
+    padding: 15px 40px;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.primary-btn:hover {
+    background-color: #ffffff;
+    color: #000000;
+    opacity: .9;
+}
+
+section {
+    padding: 100px 0;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.header-logo {
+    max-width: 180px;
+    min-width: 180px;
+}
+
+.heading-content {
+    max-width: 900px;
+    margin: 0 auto;
+    font-family: 'Merriweather', serif;
+    color: #ffffff;
+}
+
+.heading-content h2 {
+    line-height: 1.8;
+    letter-spacing: .02em;
+}
+
+.heading-content p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: rgba(255,255,255,0.5);
+}
+
+.margintop-sm {
+    margin-top: 30px;
+}
+
+.margintop-lg {
+    margin-top: 60px;
+}
+
+.col-md-6 {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#hero {
+    
+}
+
+#hero h1 {
+    font-family: 'Merriweather', serif;
+    font-size: 60px;
+    line-height: 1.6;
+    color: #ffffff; 
+}
+
+.hero-container {
+    position: relative;
+}
+
+.hero-details {
+    position: absolute;
+    color: #ffffff;
+    top: 30px;
+    left: 30px;
+    max-width: 600px;
+}
+
+.hero-details h3 {
+    font-family: 'Merriweather', serif;
+    font-size: 36px;
+}
+
+.hero-button {
+    background-color: #ffffff;
+    position: absolute;
+    padding: 15px 30px;
+    bottom: 30px;
+    left: 30px;
+}
+
+.portfolio-container {
+    position: relative;
+    margin: 10px 0;
+    transition: all .2s ease-in-out;
+}
+
+.portfolio-container:hover {
+    transform: scale(1.03);
+}
+
+.portfolio-details {
+    position: absolute;
+    color: #ffffff;
+    top: 20px;
+    left: 20px;
+}
+
+.portfolio-details h3 {
+    font-family: 'Merriweather', serif;
+    margin-top: 5px;
+}
+
+.portfolio-button {
+    background-color: #ffffff;
+    position: absolute;
+    padding: 15px 30px;
+    bottom: 20px;
+    left: 20px;
+}
+
+.portfolio-link {
+    color: #000000;
+}
+
+.portfolio-link:hover {
+    color: #000000;
+    opacity: .8;
+}
+
+.portfolio-link i {
+    font-size: 20px;
+    margin-left: 10px;
+    vertical-align: middle;
+}
+
+.blog-post {
+    position: relative;
+    padding: 40px;
+    margin: 10px 0;
+    border: 1px solid rgba(255,255,255,0.5);
+    color: #ffffff;
+}
+
+.blog-post:hover {
+    border: 2px solid #ffffff;
+    transition: all .2s ease-in-out;
+}
+
+.blog-post h4 {
+    font-family: 'Merriweather', serif;
+    line-height: 1.6;
+    margin-bottom: 40px;
+}
+
+.blog-post p {
+    color: rgba(255,255,255,0.5);
+    line-height: 1.8;
+    margin-bottom: 40px;
+}
+
+.blog-post i {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.blog-link {
+    position: absolute;
+    bottom: 30px;
+}
+
+.label-tag {
+    background-color: #ffffff;
+    padding: 4px 15px;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+.label-tag span {
+    color: #000000;
+    font-size: 12px;
+    letter-spacing: .1em;
+}
+
+.label-tag a {
+    color: #ffffff;
+}
+
+.row-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#footer {
+    color: #ffffff;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+    padding: 90px 0 30px 0;
+}
+
+#footer h6 {
+    font-size: 24px;
+}
+
+#footer small {
+    color: rgba(255,255,255,0.5);
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    letter-spacing: .25em;
+    margin-top: 30px;
+    display: inline-block;
+}
+
+#footer i {
+    font-size: 26px;
+    color: #ffffff;
+}
+
+.list-inline-item {
+    margin: 0 50px;
+}
