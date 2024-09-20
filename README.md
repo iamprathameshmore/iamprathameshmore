@@ -7,7 +7,7 @@ Creator of the [Bugs and Glitches](https://github.com/svecosystem) - where a few
 
 Notable projects I've created and or actively maintain:
 
-[Astroeye717](https://github.com/Astroeye717) 〰 [Zerodoller](https://github.com/Zerodoller) 〰 [Topus](https://github.com/melt-ui/melt-ui) 〰 [Connect](https://github.com/svecosystem/formsnap) 〰 [Hertz](https://github.com/huntabyte/vaul-svelte) 〰 [ImRabo](https://github.com/imrabo) 〰 [23bg](https://github.com/23bg)
+[Astroeye717](https://github.com/Astroeye717) 〰 [Zerodoller](https://github.com/Zerodoller) 〰 [Connect](https://github.com/svecosystem/formsnap) 〰 [Hertz](https://github.com/iamprathameshmore/Hertz) 〰 [ImRabo](https://github.com/imrabo) 〰 [23bg](https://github.com/23bg)
 
 <h3>Get in Touch</h3>
 
