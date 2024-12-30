@@ -7,7 +7,7 @@ Creator of the [23BG](https://github.com/23bg) - where a few of us are building 
 
 Notable projects I've created and or actively maintain:
 
-[Astroeye717](https://github.com/Astroeye717) 〰 [Zerodoller](https://github.com/Zerodoller) 〰 [Connect](https://github.com/svecosystem/formsnap) 〰 [Hertz](https://github.com/iamprathameshmore/Hertz) 〰 [ImRabo](https://github.com/imrabo) 〰 [23bg](https://github.com/23bg)
+[SpendSense](https://github.com/SpendSense) 〰 [Connect](https://github.com/iamprathameshmore/Connect) 〰 [Hertz](https://github.com/iamprathameshmore/Hertz) 〰 [ImRabo](https://github.com/iamprathameshmore/imrabo)
 
 <h3>Get in Touch</h3>
 
