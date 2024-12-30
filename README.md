@@ -7,8 +7,7 @@ Creator of the [23BG](https://github.com/23bg) - where a few of us are building 
 
 Notable projects I've created and or actively maintain:
 
-[SpendSense](https://github.com/SpendSense) 〰 [Connect](https://github.com/iamprathameshmore/Connect) 〰 [Hertz](https://github.com/iamprathameshmore/Hertz) 〰 [ImRabo](https://github.com/iamprathameshmore/imrabo)
-
+[onCampus](https://github.com/iamprathameshmore/onCampus) 〰 [ImRabo](https://github.com/iamprathameshmore/imrabo) 〰 [SpendSense](https://github.com/iamprathameshmore/SpendSense) 〰 [Connect](https://github.com/iamprathameshmore/Connect) 〰 [Hertz](https://github.com/iamprathameshmore/Hertz)
 <h3>Get in Touch</h3>
 
 > If you're interested in collaboration, have questions about my work, or just want to connect, feel free to drop me an email at iamprathameshmore07@gmail.com. You can also find me on LinkedIn at iamprathameshmore if you'd like to connect professionally.
