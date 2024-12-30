@@ -3,7 +3,7 @@
 
 I'm an engineer who loves to learn and build things that others find useful.
 
-Creator of the [23BG](https://github.com/23bg) - where a few of us are building and maintaining useful libraries and tools for the Bugs and Glitches ecosystem. 
+Creator of the [Bugs And Glitches](https://github.com/23bg) - where a few of us are building and maintaining useful libraries and tools for the Bugs and Glitches ecosystem. 
 
 Notable projects I've created or actively maintain:
 
