@@ -5,7 +5,7 @@ I'm an engineer who loves to learn and build things that others find useful.
 
 Creator of the [23BG](https://github.com/23bg) - where a few of us are building and maintaining useful libraries and tools for the Bugs and Glitches ecosystem. 
 
-Notable projects I've created and or actively maintain:
+Notable projects I've created or actively maintain:
 
 [onCampus](https://github.com/iamprathameshmore/onCampus) 〰 [ImRabo](https://github.com/iamprathameshmore/ImRabo) 〰 [SpendSense](https://github.com/iamprathameshmore/SpendSense) 〰 [Connect](https://github.com/iamprathameshmore/Connect) 〰 [Hertz](https://github.com/iamprathameshmore/Hertz) 〰 [LinkDrop](https://github.com/iamprathameshmore/LinkDrop)
 <h3>Get in Touch</h3>
