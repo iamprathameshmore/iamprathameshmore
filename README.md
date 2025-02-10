@@ -23,3 +23,6 @@ Notable projects I've created or actively maintain:
 <!--   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  /> -->
   <a href='https://discord.gg/jxuDXhpQ'><img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo" /></a>
 </div>
+
+resumes link :- 
+https://docs.google.com/document/d/1pUn4hVmLdJpKsT3XCa77si-90FXYyTwjF2EdtTys8ug/edit?usp=drivesdk
